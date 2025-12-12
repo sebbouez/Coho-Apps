@@ -3,13 +3,15 @@
     "content": [
       {
         "files": ["docs/**/*.md", "docs/**/toc.yml"],
-        "exclude": ["_site/**"]
+        "exclude": ["_site/**"],
+        "dest": "."
       }
     ],
     "resource": [
       {
         "files":  ["docs/images/**"],
-        "exclude": ["_site/**"]
+        "exclude": ["_site/**"],
+        "dest": "."
       }
     ],
     "overwrite": [
