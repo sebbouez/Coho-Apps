@@ -60,7 +60,7 @@
     "template": [
       "default",
       "modern",
-      "coho-custom"
+      "coho-template"
     ],
     "postProcessors": [],
     "keepFileLink": false,
