@@ -3,7 +3,8 @@
   items:
     - name: Expressive Web
       href: expressiveweb/index.md
-    - name: Kits
-      href: kits/index.md
-    - name: Web Components
-      href: expressiveweb/web-components.md
+      items:
+        - name: Kits
+          href: expressiveweb/kits.md
+        - name: Web Components
+          href: expressiveweb/components.md

@@ -2,6 +2,9 @@
   "build": {
     "markdownEngineName": "markdig",
     "markdownEngineProperties": {
+      "alerts": {
+        "APPTYPE": "info-app-type"
+      },
       "markdigExtensions": [
         "abbreviations",
         "definitionlists",

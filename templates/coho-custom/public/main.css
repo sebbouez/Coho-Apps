@@ -2,3 +2,9 @@ body {
     --bs-link-color: #007bff!important;
     --bs-link-hover-color: #0056b3!important;
 }
+
+.info-app-type
+{
+    color: #007bff;
+    text-decoration: underline;
+}

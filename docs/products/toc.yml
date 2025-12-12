@@ -1,5 +1,2 @@
 - name: Products
-  href: index.md
-  items:
-    - name: Finko
-      href: finko/index.md
+- href: finko/index.md
