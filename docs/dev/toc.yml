@@ -1,0 +1,9 @@
+- name: Products
+  href: index.md
+  items:
+    - name: Expressive Web
+      href: expressiveweb/index.md
+    - name: Kits
+      href: kits/index.md
+    - name: Web Components
+      href: expressiveweb/web-components.md

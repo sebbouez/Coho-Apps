@@ -1,7 +1,9 @@
-- name: Accueil
-  href: index. md
-- name: Articles
-  href: articles/
+- name: Home
+  href: index.md
+- name: Products
+  href: products/index.md
   items:
-    - name: Démarrage rapide
-      href: articles/getting-started.md
+    - name: Finko
+      href: products/finko/index.md
+- name: Developers
+  href: dev/index.md

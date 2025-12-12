@@ -17,21 +17,31 @@
           "**/*.yml"
         ],
         "src": "docs",
-        "exclude": ["_site/**"],
+        "exclude": [
+          "_site/**"
+        ],
         "dest": "."
       }
     ],
     "resource": [
       {
-        "files":  ["docs/images/**"],
-        "exclude": ["_site/**"],
+        "files": [
+          "docs/images/**"
+        ],
+        "exclude": [
+          "_site/**"
+        ],
         "dest": "."
       }
     ],
     "overwrite": [
       {
-        "files": ["docs/overwrite/**/*. md"],
-        "exclude": ["_site/**"]
+        "files": [
+          "docs/overwrite/**/*. md"
+        ],
+        "exclude": [
+          "_site/**"
+        ]
       }
     ],
     "globalMetadata": {
@@ -45,8 +55,9 @@
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
-        "default",
-      "modern"
+      "default",
+      "modern",
+      "coho-custom"
     ],
     "postProcessors": [],
     "keepFileLink": false,
@@ -54,5 +65,4 @@
       "port": 8080
     }
   }
-
 }
