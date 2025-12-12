@@ -1,0 +1,39 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": ["docs/**/*.md", "docs/**/toc.yml"],
+        "exclude": ["docs/_site/**"]
+      }
+    ],
+    "resource": [
+      {
+        "files":  ["docs/images/**"],
+        "exclude": ["docs/_site/**"]
+      }
+    ],
+    "overwrite": [
+      {
+        "files": ["docs/overwrite/**/*. md"],
+        "exclude": ["docs/_site/**"]
+      }
+    ],
+    "globalMetadata": {
+      "_appTitle": "Coho Apps Documentation",
+      "_appFooter": "© 2025 Coho Apps",
+      "_enableSearch": true
+    },
+    "dest": "docs/_site",
+    "globalMetadataFiles": [],
+    "fileMetadataFiles": [],
+    "template": [
+      "default"
+    ],
+    "postProcessors": [],
+    "keepFileLink": false,
+    "serve": {
+      "port": 8080
+    }
+  }
+
+}
