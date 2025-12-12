@@ -1,10 +1,21 @@
 body {
-    --bs-link-color: #007bff!important;
-    --bs-link-hover-color: #0056b3!important;
+    --bs-link-color: #007bff !important;
+    --bs-link-hover-color: #0056b3 !important;
 }
 
-.info-app-type
-{
+.toc a {
+    color: var(--bs-body-color)!important;
+}
+
+h2, h3{
+    margin-top: 32px!important;
+}
+
+nav#affix ul li a{
+    color: var(--bs-body-color)!important;
+}
+
+.info-app-type {
     color: #007bff;
     text-decoration: underline;
 }
