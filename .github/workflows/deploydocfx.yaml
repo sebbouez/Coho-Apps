@@ -1,0 +1,46 @@
+name: Deploy DocFx Site
+
+on:
+  push: 
+    branches: 
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name:  Setup . NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Install DocFx
+        run: dotnet tool install -g docfx
+
+      - name: Build documentation
+        run: docfx docs/docfx.json
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/_site
+
+      - name: Deploy to GitHub Pages
+        if: github.ref == 'refs/heads/main' && github. event_name == 'push'
+        id: deployment
+        uses: actions/deploy-pages@v4
