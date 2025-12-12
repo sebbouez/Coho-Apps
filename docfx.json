@@ -2,7 +2,11 @@
   "build": {
     "content": [
       {
-        "files": ["docs/**/*.md", "docs/**/toc.yml"],
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "src": "docs",
         "exclude": ["_site/**"],
         "dest": "."
       }
