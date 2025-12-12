@@ -3,19 +3,19 @@
     "content": [
       {
         "files": ["docs/**/*.md", "docs/**/toc.yml"],
-        "exclude": ["docs/_site/**"]
+        "exclude": ["_site/**"]
       }
     ],
     "resource": [
       {
         "files":  ["docs/images/**"],
-        "exclude": ["docs/_site/**"]
+        "exclude": ["_site/**"]
       }
     ],
     "overwrite": [
       {
         "files": ["docs/overwrite/**/*. md"],
-        "exclude": ["docs/_site/**"]
+        "exclude": ["_site/**"]
       }
     ],
     "globalMetadata": {
@@ -23,7 +23,7 @@
       "_appFooter": "© 2025 Coho Apps",
       "_enableSearch": true
     },
-    "dest": "docs/_site",
+    "dest": "_site",
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
