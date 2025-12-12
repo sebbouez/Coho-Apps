@@ -1,5 +1,15 @@
 {
   "build": {
+    "markdownEngineName": "markdig",
+    "markdownEngineProperties": {
+      "markdigExtensions": [
+        "abbreviations",
+        "definitionlists",
+        "tasklists",
+        "footnotes",
+        "diagrams"
+      ]
+    },
     "content": [
       {
         "files": [
@@ -25,7 +35,9 @@
       }
     ],
     "globalMetadata": {
+      "_appLogoPath": "",
       "_appTitle": "Coho Apps Documentation",
+      "_appName": "Coho Apps",
       "_appFooter": "© 2025 Coho Apps",
       "_enableSearch": true
     },
