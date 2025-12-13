@@ -25,7 +25,7 @@ img#logo {
 }
 
 .toc li.active:not(.expander) {
-    background: var(--bs-gray-200) !important;
+    background: var(--bs-secondary-bg) !important;
     font-weight: 600;
 }
 

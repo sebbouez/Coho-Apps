@@ -24,5 +24,3 @@ None.
 	</Border.ContextMenu>
 </Border>
 ```
-
-<img width="263" alt="image" src="https://user-images.githubusercontent.com/39953434/235143652-8c242a35-7410-4fcb-8266-07a79586992e.png">

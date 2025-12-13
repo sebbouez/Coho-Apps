@@ -25,9 +25,9 @@ Coho.UI comes with default texts in English. You can however customize them to i
 | `Coho.UI.OmnibarTexts` | `ResultsOtherServices`     | Other searches...                | The text used to group results in the omnibar results popup                                                              |
 | `Coho.UI.OmnibarTexts` | `ResultsInFiles`           | Results found in files           | The text used to group results in the omnibar results popup                                                              |
 | `Coho.UI.OmnibarTexts` | `SearchInFiles`            | Search in files...               | The text used to start the "Find in files" command                                                                       |
-| `Coho.UI.DialogsText`  | `Open`                     | Open                             | The text of the default button of the [ThemedOpenFileDialog](ThemedOpenFileDialog.md)                                    |
-| `Coho.UI.DialogsText`  | `FileName`                 | File name                        | The text next to the file name textbox in the [ThemedOpenFileDialog](ThemedOpenFileDialog.md)                            |
-| `Coho.UI.DialogsText`  | `FolderParentLevel`        | Parent                           | The text of the browse top folder button in the [ThemedOpenFileDialog](ThemedOpenFileDialog.md)                          |
+| `Coho.UI.DialogsText`  | `Open`                     | Open                             | The text of the default button of the [ThemedOpenFileDialog](themedopenfiledialog.md)                                    |
+| `Coho.UI.DialogsText`  | `FileName`                 | File name                        | The text next to the file name textbox in the [ThemedOpenFileDialog](themedopenfiledialog.md)                            |
+| `Coho.UI.DialogsText`  | `FolderParentLevel`        | Parent                           | The text of the browse top folder button in the [ThemedOpenFileDialog](themedopenfiledialog.md)                          |
 
 ## Customize strings
 

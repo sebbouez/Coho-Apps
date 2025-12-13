@@ -10,6 +10,14 @@
         </a>
       </div>
       <div class="feature col">
+        <h2>Expressive Web</h2>
+        <p>Expressive Web is an open source software to build static websites using WYSIWYG blocks, for Windows and Linux.</p>
+        <a href="expressiveweb/index.html" class="icon-link">
+          Read more
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"></use></svg>
+        </a>
+      </div>
+      <div class="feature col">
         <h2>PageFabric</h2>
         <p>PageFabric is a powerful WYSIWYG editor for Windows.</p>
         <a href="pagefabric/index.html" class="icon-link">
