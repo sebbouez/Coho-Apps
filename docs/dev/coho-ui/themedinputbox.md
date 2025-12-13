@@ -1,3 +1,7 @@
+---
+appliesTo: V2.0
+---
+
 # ThemedInputBox dialog
 
 The `ThemedInputBox` is a dialog that provides a message and a `TextBox` so that the user can enter text.

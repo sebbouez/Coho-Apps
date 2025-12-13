@@ -5,6 +5,11 @@
 <span class="page-head-tag">{{.}}</span>
 {{/tags}}
 
+
+{{#if model.appliesTo}}
+<div class="applies-to">Applies to: {{model.appliesTo}}</div>
+{{/if}}
+
 <div style="margin-top:32px">
 {{{conceptual}}}
 </div>

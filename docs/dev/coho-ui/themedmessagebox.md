@@ -1,3 +1,7 @@
+---
+appliesTo: V2.0
+---
+
 # ThemedMessageBox
 
 The `ThemedMessageBox` is a dialog that replaces the default `MessageBox` using the current theme.

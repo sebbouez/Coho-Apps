@@ -1,37 +1,36 @@
 - name: Developers documentation
   href: index.md
+- name: Coho.UI
   items:
-    - name: Coho.UI
+    - name: Getting started
+      href: coho-ui/getting-started.md
+    - name: Build custom search provider for the Omnibar
+      href: coho-ui/build-custom-searchprovider.md
+    - name: Localize default strings
+      href: coho-ui/localize-strings.md
+    - name: Classes
       items:
-        - name: Getting started
-          href: coho-ui/getting-started.md
-        - name: Build custom search provider for the Omnibar
-          href: coho-ui/build-custom-searchprovider.md
-        - name: Localize default strings
-          href: coho-ui/localize-strings.md
-        - name: Classes
-          items:
-            - name: ThemedSpecialDialogOptions
-              href: coho-ui/ThemedSpecialDialogOptions.md
-        - name: Controls
-          items:
-            - name: Announcer
-              href: coho-ui/announcer.md
-            - name: Acrylic ContextMenu
-              href: coho-ui/acrylic-contextmenu.md
-            - name: MasterAccentSplitButton
-              href: coho-ui/masteraccentsplitbutton.md
-        - name: Dialogs
-          items:
-            - name: ThemedInputBox
-              href: coho-ui/themedinputbox.md
-            - name: ThemedOpenFileDialog
-              href: coho-ui/themedopenfiledialog.md
-            - name: ThemedMessageBox
-              href: coho-ui/themedmessagebox.md
-    - name: Expressive Web
+        - name: ThemedSpecialDialogOptions
+          href: coho-ui/ThemedSpecialDialogOptions.md
+    - name: Controls
       items:
-        - name: Kits
-          href: expressiveweb/kits.md
-        - name: Components
-          href: expressiveweb/components.md
+        - name: Announcer
+          href: coho-ui/announcer.md
+        - name: Acrylic ContextMenu
+          href: coho-ui/acrylic-contextmenu.md
+        - name: MasterAccentSplitButton
+          href: coho-ui/masteraccentsplitbutton.md
+    - name: Dialogs
+      items:
+        - name: ThemedInputBox
+          href: coho-ui/themedinputbox.md
+        - name: ThemedOpenFileDialog
+          href: coho-ui/themedopenfiledialog.md
+        - name: ThemedMessageBox
+          href: coho-ui/themedmessagebox.md
+- name: Expressive Web
+  items:
+    - name: Kits
+      href: expressiveweb/kits.md
+    - name: Components
+      href: expressiveweb/components.md

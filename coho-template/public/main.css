@@ -18,6 +18,10 @@ img#logo {
     color: var(--bs-body-color) !important;
 }
 
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+    font-weight: 600 !important;
+}
+
 h2, h3 {
     margin-top: 32px !important;
 }
@@ -56,6 +60,10 @@ nav#affix h5 {
     display: none !important;
 }
 
+.applies-to {
+    font-style: italic;
+
+}
 
 .page-head-tag {
     border-radius: 16px;
@@ -63,4 +71,13 @@ nav#affix h5 {
     background-color: var(--bs-gray-600);
     color: white;
     font-size: 0.75em;
+}
+
+p code {
+    font-size: .875em;
+    color: var(--bs-body-color) !important;
+    background-color: var(--bs-gray-200) !important;
+    word-wrap: break-word;
+    border-radius: 3px;
+    padding: .1em .2em;
 }
