@@ -1,7 +1,7 @@
 # Shortcuts
 
 > [!IMPORTANT]
-> This product is discontinued.
+> This product is discontinued.  
 > The documentation is available for historical purposes only.
 
 This page lists all the shortcuts in PageFabric.

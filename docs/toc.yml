@@ -5,5 +5,7 @@
   items:
     - name: Finko
       href: products/finko/index.md
+    - name: PageFabric
+      href: products/pagefabric/index.md
 - name: Developers
   href: dev/index.md
