@@ -1,16 +1,15 @@
 {{!master(layout/_master.tmpl)}}
 {{{rawTitle}}}
 
-{{#if tags}}
 {{#tags}}
 <span class="page-head-tag">{{.}}</span>
 {{/tags}}
-{{/if}}
 
 
-{{#if appliesTo}}
+{{#appliesTo?}}
 <div class="applies-to">Applies to: {{appliesTo}}</div>
-{{/if}}
+{{/appliesTo?}}
+
 
 <div style="margin-top:32px">
 {{{conceptual}}}
