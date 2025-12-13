@@ -7,5 +7,7 @@
       href: products/finko/index.md
     - name: PageFabric
       href: products/pagefabric/index.md
+    - name: Coho.UI
+      href: products/coho-ui/index.md
 - name: Developers
   href: dev/index.md

@@ -17,6 +17,8 @@ tags:
 > You can still download the app from the Microsoft Store.  
 > https://www.microsoft.com/store/apps/9P170799PF3Q
 
+![ribbonbarwindow-d80a3311.png](../../images/pagefabric/ribbonbarwindow-d80a3311.png)
+
 ## Quick start
 
 |                       |                                                                                             |

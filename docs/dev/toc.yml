@@ -1,6 +1,16 @@
 - name: Developers documentation
   href: index.md
   items:
+    - name: Coho.UI
+      items:
+        - href: coho.ui/getting-started.md
+        - href: coho.ui/build-custom-searchprovider.md
+        - name: Controls
+          items:
+            - href: coho.ui/announcer.md
+            - href: coho.ui/acrylic-contextmenu.md
+            - href: coho.ui/masteraccentsplitbutton.md
+            - href: coho.ui/themedmessagebox.md
     - name: Expressive Web
       href: expressiveweb/index.md
       items:
