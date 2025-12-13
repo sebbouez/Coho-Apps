@@ -9,7 +9,8 @@ You must define the Font Family and Font size to use.
 * `system:Double` **AppFontSize**: Defines the font size to use in the UI.
 
 **Example**:
-``` xaml
+
+```xml
 <FontFamily x:Key="AppFont">Segoe UI Variable Display,Segoe UI</FontFamily>
 <system:Double x:Key="AppFontSize">14</system:Double>
 ```
@@ -25,7 +26,7 @@ You must define your color theme using specified resource names.
 
 **Example**:  
 
-``` xaml
+```xml
 <Color x:Key="ChromeBorderActiveColor">#038387</Color>
 <LinearGradientBrush x:Key="AccentButtonBorderColor" StartPoint="0,0.9" EndPoint="0,1">
    <GradientStop Color="#038387" Offset="0" />

@@ -13,7 +13,7 @@ None.
 
 ## Example
 
-```xaml
+```xml
 <Border Width="150" Height="150" Background="Silver">
 	<Border.ContextMenu>
 		<menus:AcrylicContextMenu>

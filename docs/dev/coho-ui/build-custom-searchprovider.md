@@ -7,6 +7,7 @@ This article will help you create and register a new search provider for the bui
 ## The service class
 Your custom search provider must inherit from `OmnibarSearchServiceBase`.  
 This is a typical content of a custom search provider:
+
 ```cs
 public class CustomOmnibarSearchService : OmnibarSearchServiceBase
 {
@@ -71,5 +72,4 @@ private void OmnibarSearchServiceOnSearchResultClicked(object? sender, OmnibarSe
     // Do something with the result that the user has selected.
     MessageBox.Show("You clicked " + e.CommandTabName);
 }
-
 ```

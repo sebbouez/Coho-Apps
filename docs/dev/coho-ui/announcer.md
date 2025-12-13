@@ -7,7 +7,7 @@ The **AnnounceTemplate** property defines the template to be used to display ite
 
 ### Example
 
-``` xaml
+```xml
 <announcer:Announcer AnnouncesAreaMargin="0,8,0,0" Margin="0,8" ItemsPerView="4"
                                      x:Name="AnnouncesPresenter" MinHeight="200">
                     <announcer:Announcer.AnnounceTemplate>
@@ -30,7 +30,7 @@ The **IsLoadingContent** property is used to hide control content and display a 
 
 ### Example
 
-``` csharp
+```csharp
 // Put the control in Loading mode, it shows a loading ring
 AnnouncesPresenter.IsLoadingContent = true;
 
@@ -41,7 +41,6 @@ OnlineContentService.GetItems().ContinueWith(r =>
     AnnouncesPresenter.ItemsSource = r.Result;
 
 }, TaskScheduler.FromCurrentSynchronizationContext());
-
 ```
 
 ## ItemsPerView (DependencyProperty, int)
@@ -52,7 +51,7 @@ The **ItemsSource** property is used to set the collection of objects to display
 
 ### Example
 
-``` csharp
+```csharp
 // Put the control in Loading mode, it shows a loading ring
 AnnouncesPresenter.IsLoadingContent = true;
 
@@ -63,7 +62,6 @@ OnlineContentService.GetItems().ContinueWith(r =>
     AnnouncesPresenter.ItemsSource = r.Result;
 
 }, TaskScheduler.FromCurrentSynchronizationContext());
-
 ```
 
 
@@ -72,7 +70,7 @@ The **Label** property is used to set the text displayed at the top of the `Anno
 
 ### Example
 
-```xaml
+```xml
 <announcer:Announcer AnnouncesAreaMargin="0,8,0,0" Margin="0,8" ItemsPerView="4"
                      x:Name="AnnouncesPresenter" MinHeight="200"
                      Label="{x:Static localization:Resources.OnlineResourcesDescription}">

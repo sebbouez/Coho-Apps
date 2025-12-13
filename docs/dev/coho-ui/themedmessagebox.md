@@ -1,7 +1,3 @@
----
-appliesTo: V2.0
----
-
 # ThemedMessageBox
 
 The `ThemedMessageBox` is a dialog that replaces the default `MessageBox` using the current theme.
@@ -18,7 +14,6 @@ Shows a modal dialog using the current theme. Returns a `MessageBoxResult` that 
 ### Example
 
 ```cs
-
 MessageBoxResult quest = ThemedMessageBox.Show("Do you want to save changes?", "Save changes", MessageBoxButton.YesNoCancel);
 
 switch (quest)
@@ -33,7 +28,6 @@ switch (quest)
         // Cancel button was clicked
     break;
 }
-
 ```
 
 

@@ -1,7 +1,3 @@
----
-appliesTo: V2.0
----
-
 # ThemedSpecialDialogOptions class
 
 This class is used to configure the behavior of the [`ThemedOpenFileDialog`](themedopenfiledialog.md) dialog.

@@ -1,7 +1,3 @@
----
-appliesTo: V2.0
----
-
 # ThemedOpenFileDialog dialog
 
 The `ThemedOpenFileDialog` is a dialog that replaces the default `OpenFileDialog` using the current theme.

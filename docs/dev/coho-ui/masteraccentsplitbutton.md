@@ -17,7 +17,7 @@ None.
 ### Events
 * `RoutedEventHandler` Click: Occurs when the user clicks the left part of the button.
 
-```xaml
+```xml
 <buttons:MasterAccentSplitButton Text="Create new" Icon="{DynamicResource IconMagic}" Click="MasterAccentSplitButton_Click">
    <buttons:MasterAccentSplitButton.DropDownContent>
       <StackPanel>
