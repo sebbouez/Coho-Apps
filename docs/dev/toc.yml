@@ -6,5 +6,5 @@
       items:
         - name: Kits
           href: expressiveweb/kits.md
-        - name: Web Components
+        - name: Components
           href: expressiveweb/components.md

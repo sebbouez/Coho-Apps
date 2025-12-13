@@ -1,4 +1,4 @@
-# Expressive Web Kits
+# Kits for Expressive Web
 
 In Expressive Web, you can consider a Kit like an SDK.  
 It contains all information (scripts, config...) to configure the editor.

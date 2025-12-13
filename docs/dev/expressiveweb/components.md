@@ -1,4 +1,4 @@
-# Components definition
+# Components for Expressive Web
 
 This guide explains how to create XML component definition files for the ExpressiveWeb framework. These files allow you to define reusable components in the visual editor by specifying their structure, behavior, and features.
 
