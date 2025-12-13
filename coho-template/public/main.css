@@ -34,6 +34,18 @@ nav#affix h5 {
 }
 
 .info-app-type {
-    color: #007bff;
-    text-decoration: underline;
+    color: var(--bs-body-color);
+    text-decoration: none;
+    font-style: italic;
+}
+.info-app-type h5 {
+    display: none!important;
+}
+
+
+.page-head-tag{
+    border-radius: 6px;
+    padding: 4px 8px;
+    background-color: var(--bs-green);
+    color: white;
 }
