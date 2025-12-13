@@ -1,4 +1,4 @@
-- name: Products
+- name: Developers documentation
   href: index.md
   items:
     - name: Expressive Web

@@ -44,8 +44,9 @@ nav#affix h5 {
 
 
 .page-head-tag{
-    border-radius: 6px;
-    padding: 4px 8px;
-    background-color: var(--bs-green);
+    border-radius: 16px;
+    padding: 3px 10px;
+    background-color: var(--bs-indigo);
     color: white;
+    font-size: 0.75em;
 }
