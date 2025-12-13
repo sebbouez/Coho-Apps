@@ -24,7 +24,7 @@ img#logo {
     padding-bottom: 0.2em;
 }
 
-.toc li.active {
+.toc li.active:not(.expander) {
     background: var(--bs-gray-200) !important;
     font-weight: 600;
 }
