@@ -1,9 +1,11 @@
 {{!master(layout/_master.tmpl)}}
 {{{rawTitle}}}
 
+{{#if tags}}
 {{#tags}}
 <span class="page-head-tag">{{.}}</span>
 {{/tags}}
+{{/if}}
 
 
 {{#if appliesTo}}
