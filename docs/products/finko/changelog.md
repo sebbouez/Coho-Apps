@@ -1,3 +1,3 @@
 # Finko updates
 
-Nothing for the moment.
+Finko is not available yet.
