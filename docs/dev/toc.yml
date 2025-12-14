@@ -34,3 +34,15 @@
       href: expressiveweb/kits.md
     - name: Components
       href: expressiveweb/components.md
+- name: PageFabric
+  items:
+    - name: Web Packages
+      href: pagefabric/webpackages.md
+    - name: Controls libraries
+      href: pagefabric/controls-library.md
+    - name: Custom search service
+      href: pagefabric/custom-searchservice.md
+    - name: Task Pane Extensions
+      href: pagefabric/taskpane-extensions.md
+    - name: Task Pane Hooks
+      href: pagefabric/taskpane-hooks.md
