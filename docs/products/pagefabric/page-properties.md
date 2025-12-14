@@ -1,5 +1,10 @@
 # Page properties
 
+> [!IMPORTANT]
+> This product is discontinued.  
+> The documentation is available for historical purposes only.
+
+
 The Page properties panel helps you configure a unique page.
 
 ## Styles and layout

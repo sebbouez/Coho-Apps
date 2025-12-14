@@ -1,5 +1,9 @@
 # Create multilingual Websites
 
+> [!IMPORTANT]
+> This product is discontinued.  
+> The documentation is available for historical purposes only.
+
 Creating a multilingual website is very easy with PageFabric.
 
 You can configure your website languages when you create a new Website.

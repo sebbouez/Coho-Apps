@@ -1,5 +1,9 @@
 # Adding notes to pages
 
+> [!IMPORTANT]
+> This product is discontinued.  
+> The documentation is available for historical purposes only.
+
 At design time, you may need to keep some notes (just for you, they won't be published).
 
 1. Open the Notes panel on the right side or press Alt+N

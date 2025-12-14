@@ -1,5 +1,9 @@
 # Cookie consent
 
+> [!IMPORTANT]
+> This product is discontinued.  
+> The documentation is available for historical purposes only.
+
 The Cookie consent is mandatory on almost all websites because of the GDPR EU law. It warns your visitors that your
 website uses Cookies to store information about them.
 

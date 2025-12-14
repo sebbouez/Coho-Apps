@@ -5,6 +5,6 @@ tags:
   - Windows 10 and later
 ---
 
-# Finko
+# Introduction to Finko
 
 Nothing for the moment.

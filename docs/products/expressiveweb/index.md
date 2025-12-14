@@ -6,7 +6,7 @@ tags:
   - Linux
 ---
 
-# Expressive Web
+# Introduction to Expressive Web
 
 Expressive Web is a free software to build static websites using WYSIWYG blocks.  
 It is written in .NET using Avalonia UI, so it should work correctly on the following systems: Windows, Linux, MacOS.

@@ -5,7 +5,7 @@ tags:
   - Windows 10 and later
 ---
 
-# PageFabric
+# Introduction to PageFabric
 
 > [!IMPORTANT]
 > This product is discontinued.  

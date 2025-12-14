@@ -1,4 +1,9 @@
 # Using Git in PageFabric
+
+> [!IMPORTANT]
+> This product is discontinued.  
+> The documentation is available for historical purposes only.
+
 Git is a famous source control solution used by millions of organizations around the world.
 
 Note: The following features are not available yet:

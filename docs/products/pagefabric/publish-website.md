@@ -1,5 +1,10 @@
 # WebSite publication
 
+> [!IMPORTANT]
+> This product is discontinued.  
+> The documentation is available for historical purposes only.
+
+
 When you are ready to push your pages online, you can generate the website using the Publish Website feature.
 
 You can use any FTP client application to send your web pages online.

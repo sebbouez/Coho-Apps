@@ -1,3 +1,5 @@
 # Developers documentation
 
-Nothing for the moment.
+This section is dedicated to developers who want to add features to Coho Apps applications.
+
+
