@@ -1,9 +1,13 @@
 body {
-    --bs-link-color: #0056b3 !important;
-    --bs-link-color-rgb: rgb(0, 86, 179) !important;
+    --bs-link-color: #2169EB !important;
+    --bs-link-color-rgb: rgb(33, 105, 235) !important;
     --bs-link-hover-color: #004085 !important;
     --bs-link-hover-color-rgb: rgb(0, 64, 133) !important;
     --bs-body-font-size: 16px;
+}
+
+a {
+    color: var(--bs-link-color-rgb) !important;
 }
 
 img#logo {
@@ -23,6 +27,20 @@ img#logo {
     padding-top: 0.2em;
     padding-bottom: 0.2em;
 }
+
+blockquote {
+    border-width: 0 !important;
+    margin: 1.2em 0 2em;
+    padding: 0.5em !important;
+    display: block;
+    background: var(--bs-secondary-bg) !important;
+    border-radius: var(--bs-border-radius) !important;
+}
+
+blockquote p {
+    margin: 0 !important;
+}
+
 
 .toc li.active:not(.expander) {
     background: var(--bs-secondary-bg) !important;
