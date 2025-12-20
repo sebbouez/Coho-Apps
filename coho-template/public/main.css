@@ -6,7 +6,7 @@ body {
     --bs-body-font-size: 16px;
 }
 
-a {
+.content a {
     color: var(--bs-link-color-rgb) !important;
 }
 
