@@ -2,11 +2,14 @@
 tags:
   - Free
   - Proprietary
-  - Windows 10 and later
+  - Windows 10/11
   - Linux
 ---
 
 # Introduction to Finko
+
+
+![finko_mint.jpeg](../../images/finko/finko_mint.jpeg)
 
 Finko is currently in development.  
 Finko is a free software to manage your personal finances and budget.  
@@ -17,4 +20,4 @@ Feel free to send error reports and ideas using the https://github.com/sebbouez/
 
 Hope you'll enjoy using Finko as much as we enjoyed creating it.
 
-Supported languages are English, French, Italian, Spanish.
+Supported languages are English, French.

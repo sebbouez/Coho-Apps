@@ -1,5 +1,27 @@
 - name: Developers documentation
   href: index.md
+- name: Vista
+  items:
+    - name: Getting started
+      href: vista/index.md
+    - name: The basics of Vista scripts
+      href: vista/script.md
+    - name: Script reference
+      items:
+        - name: V1.0.1.0
+          items:
+          - name: Classes
+            items:
+              - name: shape
+                href: vista/v1.0.1.0/class-shape.md
+              - name: selection
+                href: vista/v1.0.1.0/class-selection.md
+          - name: Modules
+            items:
+              - name: document
+                href: vista/v1.0.1.0/module-document.md
+              - name: ui
+                href: vista/v1.0.1.0/module-ui.md
 - name: Coho.UI
   items:
     - name: Getting started
