@@ -55,6 +55,11 @@ h2, h3 {
     margin-top: 32px !important;
 }
 
+li.nav-item>a.nav-link {
+    color: var(--bs-body-color) !important;
+}
+
+
 nav#affix ul li a {
     color: var(--bs-body-color) !important;
 }
