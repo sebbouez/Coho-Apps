@@ -7,7 +7,7 @@
     - name: The basics of Vista scripts
       href: vista/script.md
     - name: Vista files specification
-      href: filespec/index.md
+      href: vista/filespec/index.md
     - name: Script reference
       items:
         - name: V1.0.1.0
