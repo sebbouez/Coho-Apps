@@ -120,8 +120,8 @@ nav#affix h5 {
     font-size: 0.75em;
 }
 
-p code {
-    font-size: .875em;
+p code, td code, li code, h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
+    font-size: inherit;
     color: var(--bs-body-color) !important;
     background-color: var(--bs-secondary-bg) !important;
     word-wrap: break-word;
