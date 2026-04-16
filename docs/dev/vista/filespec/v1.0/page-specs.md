@@ -49,6 +49,7 @@ The `Properties` section stores high-level information about the diagram.
 
 - `Name` — human-readable diagram name
 - `Index` — page or diagram index
+- `ActiveLayerId` — id of the current layer to draw on, see **Layers.Id**
 
 ## `Layers` section
 
