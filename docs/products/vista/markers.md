@@ -4,6 +4,3 @@ When you create rich diagrams, you sometimes need to mark specific elements or s
 This is where markers come in.  
 Markers are specific shapes with an incremental number or letter.
 
-
-
-
