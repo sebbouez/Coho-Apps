@@ -1,5 +1,10 @@
 # Vista updates
 
+
+## Version 1.0.6.0
+Available for Windows and Linux.  
+See [release notes](updates/v1.0.6.0.md).
+
 ## Version 1.0.5.0
 Available for Windows and Linux.  
 See [release notes](updates/v1.0.5.0.md).
