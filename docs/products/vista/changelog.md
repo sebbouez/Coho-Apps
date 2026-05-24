@@ -16,6 +16,7 @@ This table contains the release history.
 
 | Version | Platforms      | Published  | Release Notes                        |
 |---------|----------------|------------|--------------------------------------|
+| 1.0.7.0 | Windows, Linux | 05/24/2026 | [Release notes](updates/v1.0.7.0.md) |
 | 1.0.6.0 | Windows        | 05/15/2026 | [Release notes](updates/v1.0.6.0.md) |
 | 1.0.5.0 | Windows, Linux |            | [Release notes](updates/v1.0.5.0.md) |
 | 1.0.4.0 | Windows, Linux |            | [Release notes](updates/v1.0.4.0.md) |
